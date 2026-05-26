@@ -23,7 +23,7 @@ namespace Materia3A.Cafeteria
 
         public override string Preparar()
         {
-            return "Estamos preparando un : "+Nombre+" Caliente  a una temperatura de : "+Temperatura + " tamaño : "+Tamaño;
+            return "Estamos preparando un : "+Nombre+" Caliente  a una temperatura de : "+Temperatura + " tamaño : "+Tamaño; 
         }
     }
 }
